@@ -72,7 +72,7 @@ Jika kedua kondisi di atas tidak terpenuhi, maka bilangan terbesar adalah bilang
 4. program akan mencetak bilangan terbesar ke terminal / konsole.
 #### Hasil program
 <img src="labpy02/Screenshot (latihan 1)..png">
-<img src=""
+<img src="labpy02/screenshot(latihan 1).png">
 
 ### Flowchart
 <img src=">
