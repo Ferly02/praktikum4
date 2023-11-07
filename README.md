@@ -75,7 +75,7 @@ Jika kedua kondisi di atas tidak terpenuhi, maka bilangan terbesar adalah bilang
 <img src="labpy02/screenshot(latihan 1).png">
 
 ### Flowchart
-<img src=">
+<img src="labpy02/Screenshot (flowchart).png">
 
 ## Tugas Labpy03
 ### Latihan 1
