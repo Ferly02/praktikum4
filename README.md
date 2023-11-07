@@ -3,8 +3,8 @@
 ## PROFIL
 | Variable | Isi |
 | -------- | --- |
-| *Nama* | Fadzar Surya Wijaya |
-| *NIM* | 312310451 |
+| *Nama* | Ferly ardiansyah |
+| *NIM* | 312310448 |
 | *Kelas* | TI.23.A.5 |
 | *Mata Kuliah* | Bahasa Pemrograman |
 
@@ -19,7 +19,7 @@ menggunakan statement if.
 Terakhir, kode mencetak bilangan terbesar ke konsole / terminal.
 3. Hasil akhirnya adalah kode ini akan menampilkan bilangan terbesar dari dua bilangan yang dimasukkan oleh pengguna.
 #### Hasil program
-<img ">
+<img src="Screenshot/Lab2_Latihan1.png">
 
 
 ### Latihan 2
