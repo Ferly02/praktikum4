@@ -19,7 +19,7 @@ menggunakan statement if.
 Terakhir, kode mencetak bilangan terbesar ke konsole / terminal.
 3. Hasil akhirnya adalah kode ini akan menampilkan bilangan terbesar dari dua bilangan yang dimasukkan oleh pengguna.
 #### Hasil program
-<img tugas struktur kondisi/Screenshot (latihan 1).png">
+<img src="tugas struktur kondisi/Screenshot (latihan 1).png">
 
 
 ### Latihan 2
