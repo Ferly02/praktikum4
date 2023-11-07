@@ -43,7 +43,7 @@ menghasilkan output sebagai berikut:
 
 #### Hasil program
 <img src="tugas perulangan/Screenshot (latihan 1)..png">
-<img src=""
+<img src="tugas perulangan/Screenshot (latihan 1).png"
 
 
 ### Latihan 2
