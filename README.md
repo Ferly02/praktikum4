@@ -31,7 +31,7 @@ hasilnya secara berurutan mulai dari data terkecil.
 2. Hasil akhirnya adalah kode ini akan menerima input dari pengguna, mengurutkan data yang dimasukkan, dan kemudian mencetak hasil pengurutan tanpa desimal.
 
 #### Hasil program
-<img src="Screenshot/Lab2_Latihan2.png">
+<img src="tugas struktur kondisi/Screenshot (latihan 2).png">
 
 
 ## Tugas perulangan
