@@ -91,10 +91,6 @@ Jika kedua kondisi di atas tidak terpenuhi, maka bilangan terbesar adalah bilang
 #### Hasil Program
 <img src="labpy03/Screenshot (latihan 3).png">
 
-### Tugas Program1.py
-#### Hasil Program
-<img src="Screenshot/Lab3py_Program1.py.png">
-
 
 
 
