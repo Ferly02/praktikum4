@@ -71,7 +71,8 @@ Jika bilangan2 lebih besar dari bilangan1 dan bilangan2 lebih besar dari bilanga
 Jika kedua kondisi di atas tidak terpenuhi, maka bilangan terbesar adalah bilangan3.
 4. program akan mencetak bilangan terbesar ke terminal / konsole.
 #### Hasil program
-<img src="Screenshot/Labs2py_Praktikum2.png">
+<img src="labpy02/Screenshot (latihan 1)..png">
+<img src=""
 
 ### Flowchart
 <img src=">
